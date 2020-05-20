@@ -1,3 +1,5 @@
+*Does not run on OS 5.5.* It's not possible for me to fix this, so don't update your calculator's OS.
+
 # steam-controller-ce
 *A program for playing music on a Steam controller from a TI-84+CE*
 
